@@ -1,0 +1,27 @@
+{
+  "name": "node-twitter-followers",
+  "version": "0.0.0",
+  "description": "A couple of simple scripts to grab all of a users followers, save it to a file and, optionally, follow the contents of the file",
+  "main": "follow.js",
+  "dependencies": {
+    "node-twitter-api": "^1.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JTarasovic/node-twitter-followers.git"
+  },
+  "keywords": [
+    "twitter",
+    "follow"
+  ],
+  "author": "Jason Tarasovic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JTarasovic/node-twitter-followers/issues"
+  },
+  "homepage": "https://github.com/JTarasovic/node-twitter-followers"
+}
